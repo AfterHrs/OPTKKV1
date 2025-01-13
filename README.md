@@ -1,3 +1,6 @@
+I DIDN'T CREATE THIS SOFTWARE, I ONLY EDITED A SMALL PART OF IT TO WORK WITH MY PREFERENCES.
+ALL CREDIT GOES TO ![gameincanada](https://github.com/gameincanada)
+
 # kit-kat-slim
 ![Logo](https://github.com/gameincanada/kit-kat-touch/blob/master/logo.png?raw=true)
 
@@ -24,6 +27,7 @@ Download and Extract the following to kit-kat-slim.exe Directory
 GPLV2
 
 # Thank You's
+- gameincanada
 - stary2001
 - kazo
 - pragma
